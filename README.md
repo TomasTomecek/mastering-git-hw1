@@ -22,3 +22,6 @@ Paw Paw
 Persimmon tree  
 [Jujube tree](./jujube.jpg)
 
+
+Image source: https://www.prodejstromku.cz/katalog/jujuba-cinske-datle-dong-zao/
+
