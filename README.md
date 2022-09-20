@@ -11,13 +11,13 @@ I am tracking a list of plants we intend to grow in our garden.
 
 ### Plants to grow
 
-Comfrey
-Strawberries
+Comfrey  
+Strawberries  
 
 
 ### Bushes and trees to grow
 
-Sea buckthorn
-Paw Paw
-Persimmon tree
+Sea buckthorn  
+Paw Paw  
+Persimmon tree  
 
