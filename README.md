@@ -20,4 +20,5 @@ Strawberries
 Sea buckthorn  
 Paw Paw  
 Persimmon tree  
+[Jujube tree](./jujube.jpg)
 
